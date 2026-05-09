@@ -1,0 +1,8 @@
+context*
+__pycache__/
+.DS_store
+./
+*.DS*
+*Docker*
+*log*
+data*
