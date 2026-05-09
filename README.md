@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+![Web Scraping](https://img.shields.io/badge/Web-Scraping-orange)
+![Crawler](https://img.shields.io/badge/Crawler-enabled-orange)
+
+
 # Description
 
 A Web Scraper + Crawler using python scrappy.
